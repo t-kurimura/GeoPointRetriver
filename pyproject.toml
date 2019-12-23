@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "longlati_gmap"
+version = "0.1.0"
+description = ""
+authors = ["t-kurimura <takahisa.kurimura@eure.jp>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+pygeocoder = "^1.2.5"
+googlemaps = "^4.0.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

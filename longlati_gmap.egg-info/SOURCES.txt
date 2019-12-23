@@ -1,0 +1,9 @@
+README.rst
+longlati_gmap/__init__.py
+longlati_gmap/geo_lati.py
+longlati_gmap/results-20191223-152706.csv
+longlati_gmap.egg-info/PKG-INFO
+longlati_gmap.egg-info/SOURCES.txt
+longlati_gmap.egg-info/dependency_links.txt
+longlati_gmap.egg-info/requires.txt
+longlati_gmap.egg-info/top_level.txt
